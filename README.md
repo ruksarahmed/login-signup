@@ -17,11 +17,14 @@ Screenshots of the app
 
 Login Screen
 
+
 ![Screenshot 2021-11-01 at 10 42 13 PM](https://user-images.githubusercontent.com/42440349/139716043-96c01c3c-9214-4e99-88be-d13402bdab08.png)
 
 
 
 Sign Up Screen
+
+
 ![Screenshot 2021-11-01 at 10 42 54 PM](https://user-images.githubusercontent.com/42440349/139716087-07b418dd-eea5-490b-a449-520531c79e79.png)
 
 
